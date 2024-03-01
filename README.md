@@ -1,1 +1,12 @@
-Config delux hub de la version 0.5 bêta du server 3rd life
+# Config delux hub 3rd life
+
+## Configuration: 
+
+**Scoarboard**
+
+vérosion 0.5 bêta 
+
+
+## Crédit 
+
+**3rd life**
